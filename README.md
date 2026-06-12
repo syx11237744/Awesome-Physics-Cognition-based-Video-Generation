@@ -7,6 +7,8 @@ This paper list covers **T2V, V2V, and dynamic 3D and 4D generation based on phy
 
 If you find this repository useful, please consider giving us a star 🌟 and a [cite](https://arxiv.org/abs/2503.21765).
 
+📘 中文读者可参考：[非综述物理相关论文导读（中文）](PHYSICS_PAPERS_ZH.md)。
+
 ## ⚡ Contributing
 
 We welcome feedback, suggestions, and contributions that can help improve this survey and repository and make them valuable resources for the entire community.
